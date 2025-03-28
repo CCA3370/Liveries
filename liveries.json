@@ -3,6 +3,9 @@
         "China Southern B-1700": {
             "Author": "A350winglets", 
             "link": "https://forums.x-plane.org/index.php?/files/file/84488-china-southern-737-800-liveries-pack/"}, 
+        "China Southern B-2694": {
+            "Author": "Coolbub123", 
+            "link": "https://forums.x-plane.org/index.php?/files/file/43773-china-southern-b737-800-defaultzibo/"}, 
         "China Southern B-5640 (2012-2018)": {
             "Author": "A350winglets", 
             "link": "https://forums.x-plane.org/index.php?/files/file/84488-china-southern-737-800-liveries-pack/"}, 
@@ -18,5 +21,80 @@
         "China Southern B-6069": {
             "Author": "A350winglets", 
             "link": "https://forums.x-plane.org/index.php?/files/file/84488-china-southern-737-800-liveries-pack/"}
+    },
+    "Air Transat": {
+        "Air Transat C-GTQB": {
+            "Author": "Coolbub123", 
+            "link": "https://forums.x-plane.org/index.php?/files/file/46104-air-transat-b737-8q8-default-zibo-eadt/"}
+    },
+    "Canjet": {
+        "Canjet C-FTCZ": {
+            "Author": "Coolbub123", 
+            "link": "https://forums.x-plane.org/index.php?/files/file/43465-canjet-b737-800-defaultzibo/"}
+    },
+    "S7 Airlines": {
+        "S7 Airlines RA-73359": {
+            "Author": "boriska17", 
+            "link": "https://forums.x-plane.org/index.php?/files/file/92044-zibo-b738-s7-airlines-pack/"}, 
+        "S7 Airlines RA-73360": {
+            "Author": "boriska17", 
+            "link": "https://forums.x-plane.org/index.php?/files/file/92044-zibo-b738-s7-airlines-pack/"}, 
+        "S7 Airlines RA-73408": {
+            "Author": "boriska17", 
+            "link": "https://forums.x-plane.org/index.php?/files/file/92044-zibo-b738-s7-airlines-pack/"}, 
+        "S7 Airlines RA-73409": {
+            "Author": "boriska17", 
+            "link": "https://forums.x-plane.org/index.php?/files/file/92044-zibo-b738-s7-airlines-pack/"}, 
+        "S7 Airlines RA-73410": {
+            "Author": "boriska17", 
+            "link": "https://forums.x-plane.org/index.php?/files/file/92044-zibo-b738-s7-airlines-pack/"}, 
+        "S7 Airlines RA-73411": {
+            "Author": "boriska17", 
+            "link": "https://forums.x-plane.org/index.php?/files/file/92044-zibo-b738-s7-airlines-pack/"}, 
+        "S7 Airlines RA-73412": {
+            "Author": "boriska17", 
+            "link": "https://forums.x-plane.org/index.php?/files/file/92044-zibo-b738-s7-airlines-pack/"}, 
+        "S7 Airlines RA-73447": {
+            "Author": "boriska17", 
+            "link": "https://forums.x-plane.org/index.php?/files/file/92044-zibo-b738-s7-airlines-pack/"}, 
+        "S7 Airlines RA-73489": {
+            "Author": "boriska17", 
+            "link": "https://forums.x-plane.org/index.php?/files/file/92044-zibo-b738-s7-airlines-pack/"}, 
+        "S7 Airlines RA-73664": {
+            "Author": "boriska17", 
+            "link": "https://forums.x-plane.org/index.php?/files/file/92044-zibo-b738-s7-airlines-pack/"}, 
+        "S7 Airlines RA-73665": {
+            "Author": "boriska17", 
+            "link": "https://forums.x-plane.org/index.php?/files/file/92044-zibo-b738-s7-airlines-pack/"}, 
+        "S7 Airlines RA-73667": {
+            "Author": "boriska17", 
+            "link": "https://forums.x-plane.org/index.php?/files/file/92044-zibo-b738-s7-airlines-pack/"}, 
+        "S7 Airlines RA-73668": {
+            "Author": "boriska17", 
+            "link": "https://forums.x-plane.org/index.php?/files/file/92044-zibo-b738-s7-airlines-pack/"}, 
+        "S7 Airlines RA-73669": {
+            "Author": "boriska17", 
+            "link": "https://forums.x-plane.org/index.php?/files/file/92044-zibo-b738-s7-airlines-pack/"}, 
+        "S7 Airlines RA-73670": {
+            "Author": "boriska17", 
+            "link": "https://forums.x-plane.org/index.php?/files/file/92044-zibo-b738-s7-airlines-pack/"}, 
+        "S7 Airlines RA-73671": {
+            "Author": "boriska17", 
+            "link": "https://forums.x-plane.org/index.php?/files/file/92044-zibo-b738-s7-airlines-pack/"}, 
+        "S7 Airlines RA-73672": {
+            "Author": "boriska17", 
+            "link": "https://forums.x-plane.org/index.php?/files/file/92044-zibo-b738-s7-airlines-pack/"}
+    },
+    "Sun d'Or Airlines":{
+        "Sun d'Or Airlines 4X-EKR":{
+            "Author": "Coolbub123", 
+            "link": "https://forums.x-plane.org/index.php?/files/file/43197-sun-dor-airlines-b737-800-defaultzibo/"}
+    },
+    "Shandong Airlines":{
+        "Shandong Airlines B-1337":{
+            "Author": "Alex.Tex", 
+            "link": "https://forums.x-plane.org/index.php?/files/file/89726-%E3%80%90alextex%E3%80%91%E3%80%90zibo738%E3%80%91shandong-airlines-b-1337-ultimate/"
+        }
     }
+
 }
